@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Your styles should come after all @import statements */
+body {
+  font-family: "Poppins", sans-serif;
+}
